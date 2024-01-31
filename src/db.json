@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Rohit Masale",
+      "email": "rohit123@gmail.com",
+      "phone": "7028575139"
+    },
+    {
+      "id": "a538",
+      "name": "Prasad Pillay",
+      "email": "prasad123@gmail.com",
+      "phone": "8421498248"
+    },
+    {
+      "id": "69ba",
+      "name": "Ritik Bhambid",
+      "email": "ritik123@gmail.com",
+      "phone": "9168141583"
+    },
+    {
+      "id": "72d0",
+      "name": "Rishab Mishra",
+      "email": "rishab4456@gmail.com",
+      "phone": "9860835914"
+    }
+  ]
+}
